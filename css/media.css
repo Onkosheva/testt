@@ -1,0 +1,32 @@
+
+@media (max-width: 1200px){
+
+
+}
+@media (max-width: 992px) {
+}
+
+
+@media (max-width: 768px) {
+.col-6{
+    width: 100%;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+    .title{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 480px) {
+    .container{
+        width: 100%;
+    }
+    .col-6{
+        width: 100%;
+        font-size: 12px;
+        line-height: 5px;
+    }
+
+}
